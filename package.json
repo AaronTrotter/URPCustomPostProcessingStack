@@ -1,13 +1,13 @@
 {
   "name": "com.yetman.render-pipelines.universal.postprocess",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Universal RP Post-Processing Stack",
   "description": "A post-processing stack for Universal RP",
-  "unity": "2020.2",
-  "unityRelease": "0f1",
+  "unity": "2021.2",
+  "unityRelease": "0a20",
   "dependencies": {
-    "com.unity.render-pipelines.universal": "10.2.2",
-    "com.unity.render-pipelines.core": "10.2.2"
+    "com.unity.render-pipelines.universal": "12.0.0",
+    "com.unity.render-pipelines.core": "12.0.0"
   },
   "keywords": [
     "graphics",
